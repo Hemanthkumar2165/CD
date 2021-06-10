@@ -1,3 +1,3 @@
 # Basic ML
-I am learning ML
-My first course is "python"
+I am learning ML,
+My first course is "python".
